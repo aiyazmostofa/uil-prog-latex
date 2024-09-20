@@ -4,7 +4,7 @@ Here is my latex template for a UIL programming packet.
 
 ## Setup & Requirements
 
-Along with the templates, this comes with an entire build process, which many different dependencies.
+Along with the templates, this comes with an entire build process, which has many different dependencies.
 This is easy for me, because I already have all of these packages.
 But this might be a challenge to setup for most.
 
