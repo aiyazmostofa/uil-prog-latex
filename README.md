@@ -8,14 +8,15 @@ Along with the templates, this comes with an entire build process, which many di
 This is easy for me, because I already have all of these packages.
 But this might be a challenge to setup for most.
 
-| Dependency | Arch Package Name |
-| Latex | `texlive-full` |
-| Pandoc | `pandoc` |
-| Go | `go` |
-| Node.js | `nodejs` |
-| NPM | `npm` |
-| clang-format | `clang` |
-| bash | `bash` |
+| Dependency   | Arch Package Name |
+| ------------ | ----------------- |
+| Latex        | `texlive-full`    |
+| Pandoc       | `pandoc`          |
+| Go           | `go`              |
+| Node.js      | `nodejs`          |
+| NPM          | `npm`             |
+| clang-format | `clang`           |
+| bash         | `bash`            |
 
 Then run:
 
